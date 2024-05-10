@@ -1,7 +1,8 @@
+# Function to calculate product of array except self
 def productOfArrayExceptSelf(nums):
     length = len(nums)
     sol=[1]*length
-    pre = 1 
+    pre = 1
     post = 1
     for i in range(length):
         sol[i] *= pre
