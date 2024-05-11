@@ -1,6 +1,8 @@
 import os
 import unittest
 
+# Run all tests for all modules in Programs
+
 def discover_tests():
     test_loader = unittest.TestLoader()
     test_suite = test_loader.discover('tests', pattern='test_*.py')
