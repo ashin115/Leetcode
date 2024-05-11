@@ -1,8 +1,9 @@
 def isPalindrome(num):
-    if num == int(str(num)[::-1]):
-        print(True)
+    if str(num)[::-1] == str(num):
+        return True
     else:
-        print(False)
+        return False
+
 
 num = int(input())
-isPalindrome(num)
+print(isPalindrome(num))

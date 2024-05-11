@@ -1,10 +1,11 @@
 # Two Sum: Given an array of integers and a target sum,
 # find two elements in the array that add up to the target sum.
 
+
 def twoSum(nums, target):
     # Create an empty dictionary to store the indices of the numbers.
     dict = {}
-    
+
     # Iterate over the input list of numbers.
     for i, n in enumerate(nums):
         # Check if the current number is already in the dictionary.
@@ -15,7 +16,8 @@ def twoSum(nums, target):
         else:
             # If not, add the difference between the target sum and the current number to the dictionary.
             dict[target - n] = i
-    
+
+
 # Read in a list of integers from user input.
 nums = eval(input())
 
@@ -24,4 +26,3 @@ target = int(input())
 
 # Call the twoSum function with the input list and target sum, and print the result.
 print(twoSum(nums, target))
-
