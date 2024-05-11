@@ -26,5 +26,3 @@ def romanToInt( s: str) -> int:
         ans -= 200
     return ans
 
-
-print(romanToInt(input()))

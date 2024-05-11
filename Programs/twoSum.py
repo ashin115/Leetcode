@@ -17,12 +17,3 @@ def twoSum(nums, target):
             # If not, add the difference between the target sum and the current number to the dictionary.
             dict[target - n] = i
 
-
-# Read in a list of integers from user input.
-nums = eval(input())
-
-# Read in the target sum from user input.
-target = int(input())
-
-# Call the twoSum function with the input list and target sum, and print the result.
-print(twoSum(nums, target))

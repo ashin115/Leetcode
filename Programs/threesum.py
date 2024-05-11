@@ -22,5 +22,3 @@ def ThreeSum(nums):
                 r -= 1
     return res
 
-
-print(ThreeSum(eval(input())))

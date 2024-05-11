@@ -22,6 +22,3 @@ def maxArea(height):
 
      # Return the maximum area that can be filled with water.
     return res
-
-# Read in a list of heights from user input and call the maxArea function with it, then print the result.
-print(maxArea(eval(input())))

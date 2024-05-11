@@ -19,4 +19,3 @@ def BinarySearch(nums, target):
     return -1  # Return -1 if the target is not found in the list.
 
 # Test the BinarySearch function with user input list and target.
-print(BinarySearch(eval(input()), int(input())))

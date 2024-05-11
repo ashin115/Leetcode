@@ -8,5 +8,4 @@ def commonPrefix(strs):
                 return shortest[:i]
     return shortest
 
-print(commonPrefix(eval(input())))
     

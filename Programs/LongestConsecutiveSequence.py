@@ -11,5 +11,4 @@ def longestConsecutiveSequence(sequence):
             longest = max(longest, length)
     return longest
 
-print(longestConsecutiveSequence(eval(input()))) 
 
