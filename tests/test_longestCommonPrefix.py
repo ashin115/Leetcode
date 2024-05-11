@@ -1,5 +1,5 @@
 import unittest
-from Programs.longestCommonPrefix import commonPrefix
+from Programs.Array.longestCommonPrefix import commonPrefix
 
 
 class TestLongestCommonPrefix(unittest.TestCase):

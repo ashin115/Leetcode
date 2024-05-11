@@ -12,4 +12,3 @@ def productOfArrayExceptSelf(nums):
     return sol
 
 
-print(productOfArrayExceptSelf(eval(input())))

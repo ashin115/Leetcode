@@ -1,5 +1,5 @@
 import unittest
-from Programs.binarySearch import BinarySearch
+from Programs.BinarySearch.binarySearch import BinarySearch
 
 
 class TestBinarySearch(unittest.TestCase):

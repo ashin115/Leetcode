@@ -5,5 +5,3 @@ def isPalindrome(num):
         return False
 
 
-num = int(input())
-print(isPalindrome(num))

@@ -1,5 +1,5 @@
 import unittest
-from Programs.LongestConsecutiveSequence import longestConsecutiveSequence
+from Programs.Array.LongestConsecutiveSequence import longestConsecutiveSequence
 
 
 class TestLongestConsecutiveSequence(unittest.TestCase):

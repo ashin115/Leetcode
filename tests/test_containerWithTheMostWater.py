@@ -1,5 +1,5 @@
 import unittest
-from Programs.containerWithTheMostWater import maxArea
+from Programs.Pointers.containerWithTheMostWater import maxArea
 
 
 class TestMaxArea(unittest.TestCase):

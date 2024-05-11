@@ -9,5 +9,3 @@ def TwoSum(nums, target):
         if nums[l] + nums[r] < target:
             l+=1
 
-
-print(TwoSum(eval(input()), int(input())))
