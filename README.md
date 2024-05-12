@@ -8,7 +8,8 @@ Welcome to my LeetCode solutions repository! Here you will find my solutions to 
 In this repository, you will find solutions to LeetCode problems that I have solved, along with detailed explanations and test cases. Each solution is implemented in a separate Python file and accompanied by a corresponding test case in the ﻿main.py file.
 Folder Structure
 #### • ﻿ Problems/: Contains all the Python files with my LeetCode solutions.
-#### • ﻿ main.py: Contains test cases to evaluate each solution.
+#### • ﻿ Tests/: Contains test cases to evaluate each solution.
+#### • ﻿ main.py: Driver program to test all solutions.
 #### • ﻿ README.md: You are reading it right now! This file provides an overview of the repository and instructions on running the tests.
 
 
