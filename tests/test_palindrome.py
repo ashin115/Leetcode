@@ -1,5 +1,5 @@
 import unittest
-from Programs.Array.palindrome import isPalindrome
+from Leetcode.Array.palindrome import isPalindrome
 
 
 class TestIsPalindrome(unittest.TestCase):

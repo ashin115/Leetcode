@@ -7,5 +7,3 @@ def commonPrefix(strs):
             if other[i] != s:
                 return shortest[:i]
     return shortest
-
-    

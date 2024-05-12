@@ -1,5 +1,5 @@
 import unittest
-from Programs.Pointers.containerWithTheMostWater import maxArea
+from Leetcode.Pointers.containerWithTheMostWater import maxArea
 
 
 class TestMaxArea(unittest.TestCase):
