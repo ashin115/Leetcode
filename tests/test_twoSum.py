@@ -1,5 +1,5 @@
 import unittest
-from Programs.Array.twoSum import twoSum
+from Leetcode.Array.twoSum import twoSum
 
 
 class TestTwoSum(unittest.TestCase):

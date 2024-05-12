@@ -1,5 +1,5 @@
 import unittest
-from Programs.Math.reverseInteger import reverseInteger
+from Leetcode.Math.reverseInteger import reverseInteger
 
 
 class TestReverseInteger(unittest.TestCase):

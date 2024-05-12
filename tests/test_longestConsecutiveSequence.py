@@ -1,5 +1,5 @@
 import unittest
-from Programs.Array.LongestConsecutiveSequence import longestConsecutiveSequence
+from Leetcode.Array.LongestConsecutiveSequence import longestConsecutiveSequence
 
 
 class TestLongestConsecutiveSequence(unittest.TestCase):
